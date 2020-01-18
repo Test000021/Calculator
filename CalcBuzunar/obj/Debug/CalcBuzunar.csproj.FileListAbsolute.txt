@@ -1,0 +1,9 @@
+D:\VSProjects\Trainings\CalcBuzunar\CalcBuzunar\bin\Debug\CalcBuzunar.exe.config
+D:\VSProjects\Trainings\CalcBuzunar\CalcBuzunar\bin\Debug\CalcBuzunar.exe
+D:\VSProjects\Trainings\CalcBuzunar\CalcBuzunar\bin\Debug\CalcBuzunar.pdb
+D:\VSProjects\Trainings\CalcBuzunar\CalcBuzunar\obj\Debug\CalcBuzunar.csprojResolveAssemblyReference.cache
+D:\VSProjects\Trainings\CalcBuzunar\CalcBuzunar\obj\Debug\CalcBuzunar.Calculator.resources
+D:\VSProjects\Trainings\CalcBuzunar\CalcBuzunar\obj\Debug\CalcBuzunar.Properties.Resources.resources
+D:\VSProjects\Trainings\CalcBuzunar\CalcBuzunar\obj\Debug\CalcBuzunar.csproj.GenerateResource.Cache
+D:\VSProjects\Trainings\CalcBuzunar\CalcBuzunar\obj\Debug\CalcBuzunar.exe
+D:\VSProjects\Trainings\CalcBuzunar\CalcBuzunar\obj\Debug\CalcBuzunar.pdb
